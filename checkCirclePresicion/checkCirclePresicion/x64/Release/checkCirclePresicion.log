@@ -1,0 +1,34 @@
+﻿  check_circle_presicion.cpp
+D:\opencv3\opencv\build\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv3\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv3\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv3\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv3\opencv\build\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+check_circle_presicion.cpp(97): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+check_circle_presicion.cpp(111): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+check_circle_presicion.cpp(115): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+check_circle_presicion.cpp(158): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+check_circle_presicion.cpp(892): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+check_circle_presicion.cpp(927): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+check_circle_presicion.cpp(928): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+check_circle_presicion.cpp(931): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+check_circle_presicion.cpp(933): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+check_circle_presicion.cpp(935): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+check_circle_presicion.cpp(937): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+check_circle_presicion.cpp(903): warning C4101: “zw”: 未引用的局部变量
+check_circle_presicion.cpp(157): warning C4101: “area”: 未引用的局部变量
+check_circle_presicion.cpp(956): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+check_circle_presicion.cpp(957): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+check_circle_presicion.cpp(960): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+check_circle_presicion.cpp(961): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+check_circle_presicion.cpp(970): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+check_circle_presicion.cpp(1094): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+check_circle_presicion.cpp(1095): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+check_circle_presicion.cpp(1096): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  5 of 1479 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  checkCirclePresicion.vcxproj -> E:\code\AboutCalibration\checkCirclePresicion\x64\Release\checkCirclePresicion.exe
+  checkCirclePresicion.vcxproj -> E:\code\AboutCalibration\checkCirclePresicion\x64\Release\checkCirclePresicion.pdb (Full PDB)
